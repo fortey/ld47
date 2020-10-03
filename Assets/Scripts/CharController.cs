@@ -10,6 +10,8 @@ public class CharController : MonoBehaviour
     private Vector2 screenRes;
     private float objectWidth;
     private float objectHeight;
+    private int direction = 1;
+    private bool isFacingRight = true;
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -20,8 +22,11 @@ public class CharController : MonoBehaviour
 
     void Update()
     {
-        var moveVector = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical"));
+        var h = Input.GetAxisRaw("Horizontal");
+        var moveVector = new Vector2(h, Input.GetAxisRaw("Vertical"));
         moveVelocity = moveVector.normalized * moveSpeed;
+
+        CheckMovementDirection();
     }
 
     private void FixedUpdate()
@@ -36,5 +41,21 @@ public class CharController : MonoBehaviour
         board.x = Mathf.Clamp(board.x, -screenRes.x + objectWidth, screenRes.x - objectWidth);
         board.y = Mathf.Clamp(board.y, -screenRes.y + objectHeight, screenRes.y - objectHeight);
         transform.position = board;
+    }
+
+    private void CheckMovementDirection()
+    {
+        if (isFacingRight && moveVelocity.x < 0)
+            Flip();
+        else if (!isFacingRight && moveVelocity.x > 0)
+            Flip();
+
+    }
+
+    void Flip()
+    {
+        direction *= -1;
+        isFacingRight = !isFacingRight;
+        transform.Rotate(0f, 180f, 0f);
     }
 }
