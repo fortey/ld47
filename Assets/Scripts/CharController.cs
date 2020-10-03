@@ -5,6 +5,9 @@ using UnityEngine;
 public class CharController : MonoBehaviour
 {
     public float moveSpeed = 10f;
+    public float jumpForce = 30f;
+    public float jumpTime = 0.1f;
+
     private Vector2 moveVelocity;
     private Rigidbody2D rb;
     private Vector2 screenRes;
@@ -12,6 +15,10 @@ public class CharController : MonoBehaviour
     private float objectHeight;
     private int direction = 1;
     private bool isFacingRight = true;
+
+    private bool isJumping;
+    private float currentJumpTime;
+
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -22,9 +29,19 @@ public class CharController : MonoBehaviour
 
     void Update()
     {
-        var h = Input.GetAxisRaw("Horizontal");
-        var moveVector = new Vector2(h, Input.GetAxisRaw("Vertical"));
-        moveVelocity = moveVector.normalized * moveSpeed;
+        CheckJump();
+        if (Input.GetButtonDown("Fire1") && !isJumping)
+        {
+            Jump();
+        }
+
+        if (!isJumping)
+        {
+            var h = Input.GetAxisRaw("Horizontal");
+            var v = Input.GetAxisRaw("Vertical");
+            var moveVector = new Vector2(h, v);
+            moveVelocity = moveVector.normalized * moveSpeed;
+        }
 
         CheckMovementDirection();
     }
@@ -57,5 +74,25 @@ public class CharController : MonoBehaviour
         direction *= -1;
         isFacingRight = !isFacingRight;
         transform.Rotate(0f, 180f, 0f);
+    }
+
+    void CheckJump()
+    {
+        if (isJumping)
+        {
+            currentJumpTime -= Time.deltaTime;
+            if (currentJumpTime <= 0)
+            {
+                isJumping = false;
+            }
+        }
+    }
+    void Jump()
+    {
+        currentJumpTime = jumpTime;
+        isJumping = true;
+        var mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+        var heading = mousePos - transform.position;
+        moveVelocity = heading.normalized * jumpForce;
     }
 }
