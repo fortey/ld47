@@ -6,6 +6,7 @@ public class Bullet : MonoBehaviour
 {
     public float Speed = 5f;
     public int HealingPower = 2;
+   
 
     private Rigidbody2D rb;
 
@@ -38,5 +39,6 @@ public class Bullet : MonoBehaviour
             Destroy(gameObject);
             collision.GetComponent<Character>().Heal(HealingPower);
         }
+        
     }
 }

@@ -6,6 +6,7 @@ using UnityEngine.UI;
 public class HealthBar : MonoBehaviour
 {
     public RectTransform healthBar;
+
     public Transform objectToFollow;
     public RectTransform targetCanvas;
     public Image HealthLine;
@@ -28,5 +29,6 @@ public class HealthBar : MonoBehaviour
     public void OnHealthChanged(float healthFill)
     {
         HealthLine.fillAmount = healthFill;
+
     }
 }

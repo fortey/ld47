@@ -5,6 +5,7 @@ using UnityEngine;
 public class Character : MonoBehaviour
 {
     public HealthBar healthBar;
+    public Animator anim;
     public int startHealth = 5;
     [SerializeField]
     private int maxHealth = 10;
@@ -43,8 +44,10 @@ public class Character : MonoBehaviour
     }
 
     public void Heal(int amount)
-    {
+    { 
         Health += amount;
+        
+        
     }
 
     public void TakeDamage(int damage)
