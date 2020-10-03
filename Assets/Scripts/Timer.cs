@@ -21,13 +21,13 @@ public class Timer : MonoBehaviour
     {
         StartTime -= Time.deltaTime;
         
-        if (StartTime < 0)
+        if (StartTime < 0 && newtime != 0)
         {
             StartTime = newtime - 5;
             time.text = StartTime.ToString();
             newtime = StartTime;
         }
-        else
+        else if (newtime != 0)
             time.text = StartTime.ToString("#");
     }
 }
