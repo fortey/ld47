@@ -134,6 +134,7 @@ GameObject:
   - component: {fileID: 74205277}
   - component: {fileID: 74205276}
   - component: {fileID: 74205275}
+  - component: {fileID: 74205280}
   m_Layer: 0
   m_Name: Char
   m_TagString: Player
@@ -265,6 +266,21 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &74205280
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 74205274}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1528e2b8629068149b368efe3cf49418, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  healthBar: {fileID: 1791873469}
+  startHealth: 5
+  maxHealth: 10
 --- !u!1 &223962471
 GameObject:
   m_ObjectHideFlags: 0
@@ -603,10 +619,10 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_Sprite: {fileID: 21300000, guid: fadd4bf30d212c44fb529dbdd0af3b66, type: 3}
-  m_Type: 0
+  m_Type: 3
   m_PreserveAspect: 0
   m_FillCenter: 1
-  m_FillMethod: 4
+  m_FillMethod: 0
   m_FillAmount: 1
   m_FillClockwise: 1
   m_FillOrigin: 0
