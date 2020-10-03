@@ -16,6 +16,11 @@ public class EnemySpawn : MonoBehaviour
     public int explosiveEnemyMaxCount = 3;
     private int explosiveEnemyCount;
 
+    public GameObject poisonEnemy;
+    public float poisonEnemyTime = 1f;
+    public int poisonEnemyMaxCount = 2;
+    private int poisonEnemyCount;
+
     private Vector2 screenRes;
 
     private void Start()
@@ -24,6 +29,7 @@ public class EnemySpawn : MonoBehaviour
 
         StartCoroutine(Spawn(passiveEnemyTime, () => passiveEnemyCount < passiveEnemyMaxCount, SpawnPassive));
         StartCoroutine(Spawn(explosiveEnemyTime, () => explosiveEnemyCount < explosiveEnemyMaxCount, SpawnExplosive));
+        StartCoroutine(Spawn(poisonEnemyTime, () => poisonEnemyCount < poisonEnemyMaxCount, SpawnPoison));
     }
 
     private IEnumerator Spawn(float time, Func<bool> canSpawn, Action<Vector3> SpawnAction)
@@ -65,4 +71,12 @@ public class EnemySpawn : MonoBehaviour
         passiveEnemyCount++;
         enemy.GetComponent<Enemy>().onDead = onPassiveDead;
     }
+
+    private void SpawnPoison(Vector3 pos)
+    {
+        var enemy = Instantiate(poisonEnemy, pos, Quaternion.identity);
+        poisonEnemyCount++;
+        enemy.GetComponent<Enemy>().onDead = () => poisonEnemyCount--;
+    }
+
 }
