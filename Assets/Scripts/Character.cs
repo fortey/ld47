@@ -10,6 +10,13 @@ public class Character : MonoBehaviour
     private int maxHealth = 10;
 
     private int health = 5;
+
+    private float poisonTime;
+    private float poisonTick;
+    private float currentPoisonTime;
+    private int poisonDamage;
+
+    private SpriteRenderer spriteRenderer;
     public int Health
     {
         get => health;
@@ -22,12 +29,12 @@ public class Character : MonoBehaviour
     void Start()
     {
         Health = startHealth;
+        spriteRenderer = GetComponent<SpriteRenderer>();
     }
 
-    // Update is called once per frame
     void Update()
     {
-
+        UpdatePoisoning();
     }
 
     private void ShowHealth()
@@ -46,6 +53,32 @@ public class Character : MonoBehaviour
         if (Health == 0)
         {
 
+        }
+    }
+
+    public void Poisoning(PoisonEnemy enemy)
+    {
+        poisonTime = enemy.poisonTime;
+        poisonTick = enemy.poisonTick;
+        poisonDamage = enemy.damage;
+        spriteRenderer.color = Color.green;
+    }
+
+    private void UpdatePoisoning()
+    {
+        if (poisonTime >= poisonTick)
+        {
+            currentPoisonTime += Time.deltaTime;
+            if (currentPoisonTime >= poisonTick)
+            {
+                poisonTime -= currentPoisonTime;
+                TakeDamage(poisonDamage);
+                currentPoisonTime = 0f;
+                if (poisonTime < poisonTick)
+                {
+                    spriteRenderer.color = Color.white;
+                }
+            }
         }
     }
 }
