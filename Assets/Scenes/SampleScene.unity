@@ -962,6 +962,9 @@ MonoBehaviour:
     type: 3}
   poisonEnemyTime: 1
   poisonEnemyMaxCount: 2
+  clock: {fileID: 2092879741333661914, guid: 2850b0932a9347149bffaa924501d76b, type: 3}
+  clockTime: 1
+  clockMaxCount: 2
 --- !u!4 &988508389
 Transform:
   m_ObjectHideFlags: 0
