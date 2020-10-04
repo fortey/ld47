@@ -2742,8 +2742,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LevelLabel: {fileID: 0}
-  LevelName: Level 99
-  NextScene: SampleScene
+  LevelName: Level 13
+  NextScene: Lvl_01
 --- !u!4 &2120622094
 Transform:
   m_ObjectHideFlags: 0
