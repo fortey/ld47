@@ -1308,12 +1308,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 454644070}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 033825c3da31a234cbf8ad2202b0e5df, type: 3}
+  m_Script: {fileID: 11500000, guid: 3094f4da96271304c80ae94efb82e7b8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   LevelLabel: {fileID: 1052777562}
   LevelName: Special
-  NextScene: Lvl_02
+  NextScene: 
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -1519,7 +1519,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Bullet: {fileID: 5054585871055434021, guid: c606a1ad89c55114c81653696e2d44c9, type: 3}
-  startTimeBtwShoots: 3
+  startTimeBtwShoots: 1
 --- !u!1 &809034903
 GameObject:
   m_ObjectHideFlags: 0
