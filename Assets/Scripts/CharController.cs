@@ -15,6 +15,7 @@ public class CharController : MonoBehaviour
     private float objectHeight;
     private int direction = 1;
     private bool isFacingRight = true;
+    public Animator anim;
 
     private bool isJumping;
     private float currentJumpTime;
@@ -27,6 +28,7 @@ public class CharController : MonoBehaviour
         screenRes = Camera.main.ScreenToWorldPoint(new Vector3(Screen.width, Screen.height, Camera.main.transform.position.z));
         objectWidth = GetComponent<SpriteRenderer>().bounds.extents.x;
         objectHeight = GetComponent<SpriteRenderer>().bounds.extents.y;
+        anim = GetComponent<Animator>();
     }
 
     void Update()
@@ -43,6 +45,8 @@ public class CharController : MonoBehaviour
             var v = Input.GetAxisRaw("Vertical");
             var moveVector = new Vector2(h, v);
             moveVelocity = moveVector.normalized * moveSpeed;
+            anim.SetFloat("speedX", Mathf.Abs(h));
+            anim.SetFloat("speedY", Mathf.Abs(v));
         }
 
         CheckMovementDirection();
