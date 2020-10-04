@@ -471,8 +471,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LevelLabel: {fileID: 848448735}
-  LevelName: Level 03
-  NextScene: Lvl_04
+  LevelName: Level 07
+  NextScene: Lvl_08
 --- !u!1 &352414266
 GameObject:
   m_ObjectHideFlags: 0
