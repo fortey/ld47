@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 5121818896888775610}
   - component: {fileID: 7142803992187145837}
   m_Layer: 0
-  m_Name: BulletSlow
+  m_Name: BulletSoft
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -144,8 +144,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a0c7cb1359ed9d42bd1e92bad5d14dd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Speed: 2.5
-  HealingPower: 20
+  Speed: 3
+  HealingPower: 15
 --- !u!114 &7142803992187145837
 MonoBehaviour:
   m_ObjectHideFlags: 0

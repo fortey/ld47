@@ -1350,7 +1350,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 2
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_BackGroundColor: {r: 0, g: 0, b: 0, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -1518,7 +1518,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3eb56ee8bc154b240ba509f38340a218, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Bullet: {fileID: 5054585871055434021, guid: a0790bd1fbdde704da7649ad1b91dcd2, type: 3}
+  Bullet: {fileID: 5054585871055434021, guid: c606a1ad89c55114c81653696e2d44c9, type: 3}
   startTimeBtwShoots: 0.1
 --- !u!1 &809034903
 GameObject:
@@ -1842,13 +1842,13 @@ MonoBehaviour:
     type: 3}
   passiveEnemyTime: 2
   passiveEnemyMaxCount: 2
-  explosiveEnemy: {fileID: 6910987897361027669, guid: f71993d26ce43fa45841e475f9e3c3f8,
+  explosiveEnemy: {fileID: 6910987897361027669, guid: bb1735566ed2352428d03c8f334ae7f7,
     type: 3}
-  explosiveEnemyTime: 8
-  explosiveEnemyMaxCount: 1
-  poisonEnemy: {fileID: 3324696211656867666, guid: 1fa69eeae7c4f2b4fbdde7842d747d77,
+  explosiveEnemyTime: 5
+  explosiveEnemyMaxCount: 2
+  poisonEnemy: {fileID: 3324696211656867666, guid: f5816824c7061064a8fd93fdf5074042,
     type: 3}
-  poisonEnemyTime: 3
+  poisonEnemyTime: 1
   poisonEnemyMaxCount: 3
   clock: {fileID: 0}
   clockTime: 0
