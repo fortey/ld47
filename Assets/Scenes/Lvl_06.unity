@@ -262,6 +262,7 @@ GameObject:
   - component: {fileID: 155654814}
   - component: {fileID: 155654813}
   - component: {fileID: 155654812}
+  - component: {fileID: 155654817}
   m_Layer: 0
   m_Name: Char
   m_TagString: Player
@@ -411,6 +412,22 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!111 &155654817
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 155654810}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 0}
+  m_Animations:
+  - {fileID: 7400000, guid: fecbb32b83b7d854690155b50051ff51, type: 2}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &179425806
 GameObject:
   m_ObjectHideFlags: 0
