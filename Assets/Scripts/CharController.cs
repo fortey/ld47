@@ -46,7 +46,7 @@ public class CharController : MonoBehaviour
             var moveVector = new Vector2(h, v);
             moveVelocity = moveVector.normalized * moveSpeed;
             anim.SetFloat("speedX", Mathf.Abs(h));
-            anim.SetFloat("speedy", Mathf.Abs(v));
+            anim.SetFloat("speedY", Mathf.Abs(v));
         }
 
         CheckMovementDirection();
