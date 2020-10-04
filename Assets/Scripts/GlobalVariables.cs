@@ -11,6 +11,8 @@ public class GlobalVariables : MonoBehaviour
     private int currentIndex;
     public String NextScene;
 
+    public Vector2 tntPos = new Vector2(0, 0);
+
     public int Score
     {
         get => score;

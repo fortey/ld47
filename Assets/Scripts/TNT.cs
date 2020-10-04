@@ -7,6 +7,14 @@ public class TNT : MonoBehaviour
 {
     public Sprite Explosion;
     public float newSpeed = 2f;
+
+    private void Start()
+    {
+        if (GlobalVariables.instance && !GlobalVariables.instance.tntPos.Equals(new Vector2(0, 0)))
+        {
+            transform.position = GlobalVariables.instance.tntPos;
+        }
+    }
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.CompareTag("Player"))
