@@ -1312,7 +1312,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LevelLabel: {fileID: 1052777562}
-  LevelName: Special
+  LevelName: KILL THE MONKEY!
   NextScene: 
 --- !u!1 &519420028
 GameObject:
@@ -1519,8 +1519,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3eb56ee8bc154b240ba509f38340a218, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Bullet: {fileID: 5054585871055434021, guid: c606a1ad89c55114c81653696e2d44c9, type: 3}
-  startTimeBtwShoots: 0.1
+  Bullet: {fileID: 5054585871055434021, guid: a0790bd1fbdde704da7649ad1b91dcd2, type: 3}
+  startTimeBtwShoots: 0.09
 --- !u!61 &869191635
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1857,7 +1857,7 @@ Transform:
   m_GameObject: {fileID: 1006658138}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 9.67, y: 3.08, z: 10.876953}
-  m_LocalScale: {x: 2, y: 2, z: 1}
+  m_LocalScale: {x: 4, y: 4, z: 1}
   m_Children: []
   m_Father: {fileID: 275314178}
   m_RootOrder: 5
@@ -1879,7 +1879,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.15, y: 0.25}
+    oldSize: {x: 0.32, y: 0.32}
     newSize: {x: 0.15, y: 0.25}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -1951,6 +1951,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Explosion: {fileID: 21300000, guid: 701bc7ffd4321444798405ee5bdc926e, type: 3}
+  newSpeed: 0.6
 --- !u!1 &1049848713
 GameObject:
   m_ObjectHideFlags: 0

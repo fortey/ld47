@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 5054585871055434022}
   - component: {fileID: 5121818896888775610}
   m_Layer: 0
-  m_Name: Bullet
+  m_Name: BulletHard
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -143,5 +143,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a0c7cb1359ed9d42bd1e92bad5d14dd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Speed: 5
+  Speed: 4.7
   HealingPower: 40

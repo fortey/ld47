@@ -1,0 +1,4568 @@
+fileFormatVersion: 2
+guid: e419e471e149b1544999b077d87becb2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3780374297842046187
+    second: ReGUI_0
+  - first:
+      213: 6377225264125803128
+    second: ReGUI_1
+  - first:
+      213: 5789514284728171825
+    second: ReGUI_2
+  - first:
+      213: -2284003836599709366
+    second: ReGUI_3
+  - first:
+      213: 1603633332887355757
+    second: ReGUI_4
+  - first:
+      213: -2062080049401520727
+    second: ReGUI_5
+  - first:
+      213: -1046603293139841337
+    second: ReGUI_6
+  - first:
+      213: 5625301606892349590
+    second: ReGUI_7
+  - first:
+      213: -6797266756909988842
+    second: ReGUI_8
+  - first:
+      213: 2182284172458033058
+    second: ReGUI_9
+  - first:
+      213: -2897121778961833232
+    second: ReGUI_10
+  - first:
+      213: 4919078725195458287
+    second: ReGUI_11
+  - first:
+      213: 8950861106586312585
+    second: ReGUI_12
+  - first:
+      213: 7308847883757232037
+    second: ReGUI_13
+  - first:
+      213: -4486987829379047424
+    second: ReGUI_14
+  - first:
+      213: -2161009915307224307
+    second: ReGUI_15
+  - first:
+      213: -7485060179400084164
+    second: ReGUI_16
+  - first:
+      213: -6416127721307713687
+    second: ReGUI_17
+  - first:
+      213: -7974763922204402660
+    second: ReGUI_18
+  - first:
+      213: 4101215484739141107
+    second: ReGUI_19
+  - first:
+      213: 8284468826219878312
+    second: ReGUI_20
+  - first:
+      213: 2649967874564767189
+    second: ReGUI_21
+  - first:
+      213: 6715766460555586197
+    second: ReGUI_22
+  - first:
+      213: 7798726119918903696
+    second: ReGUI_23
+  - first:
+      213: -5664790082080825820
+    second: ReGUI_24
+  - first:
+      213: 8437534382848859314
+    second: ReGUI_25
+  - first:
+      213: -6416392871133027235
+    second: ReGUI_26
+  - first:
+      213: -5299084333669181407
+    second: ReGUI_27
+  - first:
+      213: 2193143584531011944
+    second: ReGUI_28
+  - first:
+      213: 5967817870886213773
+    second: ReGUI_29
+  - first:
+      213: 2619535881547445357
+    second: ReGUI_30
+  - first:
+      213: 4347776274448742663
+    second: ReGUI_31
+  - first:
+      213: 5837848534258479946
+    second: ReGUI_32
+  - first:
+      213: 1233572417999664946
+    second: ReGUI_33
+  - first:
+      213: 7670536314321613765
+    second: ReGUI_34
+  - first:
+      213: -6088883094457003604
+    second: ReGUI_35
+  - first:
+      213: -254690271311323373
+    second: ReGUI_36
+  - first:
+      213: 1289018991515464045
+    second: ReGUI_37
+  - first:
+      213: 2967116257939054307
+    second: ReGUI_38
+  - first:
+      213: 4974379485840888150
+    second: ReGUI_39
+  - first:
+      213: -5164626116001860704
+    second: ReGUI_40
+  - first:
+      213: -3613934533750244267
+    second: ReGUI_41
+  - first:
+      213: -2565193284552944689
+    second: ReGUI_42
+  - first:
+      213: 9003369082657237996
+    second: ReGUI_43
+  - first:
+      213: 2022582607311574110
+    second: ReGUI_44
+  - first:
+      213: 323529429050172867
+    second: ReGUI_45
+  - first:
+      213: 8290219318744650530
+    second: ReGUI_46
+  - first:
+      213: -634882621469997256
+    second: ReGUI_47
+  - first:
+      213: -2237627403452403959
+    second: ReGUI_48
+  - first:
+      213: -7491158048005013896
+    second: ReGUI_49
+  - first:
+      213: -3825393243091324772
+    second: ReGUI_50
+  - first:
+      213: 1659151257467156075
+    second: ReGUI_51
+  - first:
+      213: -7613592356642052822
+    second: ReGUI_52
+  - first:
+      213: -7459477662911011847
+    second: ReGUI_53
+  - first:
+      213: -1678981349436729005
+    second: ReGUI_54
+  - first:
+      213: -760570061324880989
+    second: ReGUI_55
+  - first:
+      213: -8150919851009817681
+    second: ReGUI_56
+  - first:
+      213: 1008610189639388179
+    second: ReGUI_57
+  - first:
+      213: 1734085491104599155
+    second: ReGUI_58
+  - first:
+      213: 1585522471988317767
+    second: ReGUI_59
+  - first:
+      213: -8568187179515146573
+    second: ReGUI_60
+  - first:
+      213: -1683489775855830073
+    second: ReGUI_61
+  - first:
+      213: 1021261785156498972
+    second: ReGUI_62
+  - first:
+      213: -429650597464516618
+    second: ReGUI_63
+  - first:
+      213: -6062855948922565489
+    second: ReGUI_64
+  - first:
+      213: -1369035519575518273
+    second: ReGUI_65
+  - first:
+      213: -7607687455066100140
+    second: ReGUI_66
+  - first:
+      213: 6705118828841891314
+    second: ReGUI_67
+  - first:
+      213: -789739561758005363
+    second: ReGUI_68
+  - first:
+      213: -8479304927756467669
+    second: ReGUI_69
+  - first:
+      213: 1914922482744699406
+    second: ReGUI_70
+  - first:
+      213: -4920320924073997327
+    second: ReGUI_71
+  - first:
+      213: -4780359297707847410
+    second: ReGUI_72
+  - first:
+      213: 4348774503171947660
+    second: ReGUI_73
+  - first:
+      213: 4409933313817081417
+    second: ReGUI_74
+  - first:
+      213: -7854175118768209093
+    second: ReGUI_75
+  - first:
+      213: 5822520439958324420
+    second: ReGUI_76
+  - first:
+      213: 1173851104619757377
+    second: ReGUI_77
+  - first:
+      213: -7550775261740180277
+    second: ReGUI_78
+  - first:
+      213: -3862043428832624376
+    second: ReGUI_79
+  - first:
+      213: 2799508482526793176
+    second: ReGUI_80
+  - first:
+      213: 7672223164073030587
+    second: ReGUI_81
+  - first:
+      213: 4427587601894712323
+    second: ReGUI_82
+  - first:
+      213: 5137294700312354839
+    second: ReGUI_83
+  - first:
+      213: 209590903748290625
+    second: ReGUI_84
+  - first:
+      213: 7570168497669776727
+    second: ReGUI_85
+  - first:
+      213: -3390453479336415867
+    second: ReGUI_86
+  - first:
+      213: -1256090237103186331
+    second: ReGUI_87
+  - first:
+      213: -7583976693916620029
+    second: ReGUI_88
+  - first:
+      213: -5703952422956380864
+    second: ReGUI_89
+  - first:
+      213: 2489377568489016789
+    second: ReGUI_90
+  - first:
+      213: 8400640929643557308
+    second: ReGUI_91
+  - first:
+      213: -33873152529257107
+    second: ReGUI_92
+  - first:
+      213: 1189512985058594340
+    second: ReGUI_93
+  - first:
+      213: 7852284187458545874
+    second: ReGUI_94
+  - first:
+      213: 6200533240507817188
+    second: ReGUI_95
+  - first:
+      213: -4761976928308397533
+    second: ReGUI_96
+  - first:
+      213: -1886775156700361227
+    second: ReGUI_97
+  - first:
+      213: -8462456882817666460
+    second: ReGUI_98
+  - first:
+      213: 874302049099240955
+    second: ReGUI_99
+  - first:
+      213: 8056940746009074155
+    second: ReGUI_100
+  - first:
+      213: -4776288992992787048
+    second: ReGUI_101
+  - first:
+      213: -7388566985893857156
+    second: ReGUI_102
+  - first:
+      213: -7128703441959775991
+    second: ReGUI_103
+  - first:
+      213: -7314105312995867002
+    second: ReGUI_104
+  - first:
+      213: 6715551528456558969
+    second: ReGUI_105
+  - first:
+      213: 6214903671395352114
+    second: ReGUI_106
+  - first:
+      213: -7512534497184206166
+    second: ReGUI_107
+  - first:
+      213: -4279904744420825637
+    second: ReGUI_108
+  - first:
+      213: -3395224066868623061
+    second: ReGUI_109
+  - first:
+      213: -4745441941703292638
+    second: ReGUI_110
+  - first:
+      213: 7991927817241221380
+    second: ReGUI_111
+  - first:
+      213: -6206546185995332407
+    second: ReGUI_112
+  - first:
+      213: 1451450414021970849
+    second: ReGUI_113
+  - first:
+      213: 1770099919405930952
+    second: ReGUI_114
+  - first:
+      213: -8777259108640323825
+    second: ReGUI_115
+  - first:
+      213: 824927069456073547
+    second: ReGUI_116
+  - first:
+      213: -4704789792378915898
+    second: ReGUI_117
+  - first:
+      213: -3093802706683792820
+    second: ReGUI_118
+  - first:
+      213: -5695774995757996636
+    second: ReGUI_119
+  - first:
+      213: 7865890720344825943
+    second: ReGUI_120
+  - first:
+      213: 2751977954178238352
+    second: ReGUI_121
+  - first:
+      213: -2878994119877429580
+    second: ReGUI_122
+  - first:
+      213: 5749516037776603830
+    second: ReGUI_123
+  - first:
+      213: 2963620667394679015
+    second: ReGUI_124
+  - first:
+      213: 5315706172702674479
+    second: ReGUI_125
+  - first:
+      213: -4858347840957844110
+    second: ReGUI_126
+  - first:
+      213: -295679737098711266
+    second: ReGUI_127
+  - first:
+      213: 4527654274250401992
+    second: ReGUI_128
+  - first:
+      213: -1982367426598304965
+    second: ReGUI_129
+  - first:
+      213: 2197347515751735806
+    second: ReGUI_130
+  - first:
+      213: 2334901488554495047
+    second: ReGUI_131
+  - first:
+      213: -991474439847113576
+    second: ReGUI_132
+  - first:
+      213: 6040530399389805985
+    second: ReGUI_133
+  - first:
+      213: 6823490571426225671
+    second: ReGUI_134
+  - first:
+      213: -2766125323260923584
+    second: ReGUI_135
+  - first:
+      213: 8348204591962943352
+    second: ReGUI_136
+  - first:
+      213: -1150581435107948167
+    second: ReGUI_137
+  - first:
+      213: 7583716642324145841
+    second: ReGUI_138
+  - first:
+      213: -4197943148743478982
+    second: ReGUI_139
+  - first:
+      213: 4792008552326437233
+    second: ReGUI_140
+  - first:
+      213: -7637383114798455916
+    second: ReGUI_141
+  - first:
+      213: -6638181193684290101
+    second: ReGUI_142
+  - first:
+      213: -4672432696326446314
+    second: ReGUI_143
+  - first:
+      213: 4010161606653184491
+    second: ReGUI_144
+  - first:
+      213: -6231532514354815312
+    second: ReGUI_145
+  - first:
+      213: 784220051680813892
+    second: ReGUI_146
+  - first:
+      213: 1573778825331785652
+    second: ReGUI_147
+  - first:
+      213: 1313465221547509879
+    second: ReGUI_148
+  - first:
+      213: -7783583944413058723
+    second: ReGUI_149
+  - first:
+      213: 7029835548752145841
+    second: ReGUI_150
+  - first:
+      213: -5126932919747404139
+    second: ReGUI_151
+  - first:
+      213: 2093587462581024151
+    second: ReGUI_152
+  - first:
+      213: -4596378427180900371
+    second: ReGUI_153
+  - first:
+      213: 883084310186859135
+    second: ReGUI_154
+  - first:
+      213: -1053948242979789810
+    second: ReGUI_155
+  - first:
+      213: 1625984177027180086
+    second: ReGUI_156
+  - first:
+      213: -1083980144598200466
+    second: ReGUI_157
+  - first:
+      213: -3119645237614283309
+    second: ReGUI_158
+  - first:
+      213: -3585583268299384404
+    second: ReGUI_159
+  - first:
+      213: 7807957133300275245
+    second: ReGUI_160
+  - first:
+      213: -3306265437820272254
+    second: ReGUI_161
+  - first:
+      213: -3145337497068424350
+    second: ReGUI_162
+  - first:
+      213: 7168823680872141924
+    second: ReGUI_163
+  - first:
+      213: -3823351293841696317
+    second: ReGUI_164
+  - first:
+      213: -7818684075646550183
+    second: ReGUI_165
+  - first:
+      213: 6475926641833274367
+    second: ReGUI_166
+  - first:
+      213: -6407037605298306816
+    second: ReGUI_167
+  - first:
+      213: 1328973768658083482
+    second: ReGUI_168
+  - first:
+      213: -4783043030628761904
+    second: ReGUI_169
+  - first:
+      213: 4298649650663557227
+    second: ReGUI_170
+  - first:
+      213: -7606374303604510237
+    second: ReGUI_171
+  - first:
+      213: 4259485096103663847
+    second: ReGUI_172
+  - first:
+      213: -3727355391953783941
+    second: ReGUI_173
+  - first:
+      213: 2182005110572047065
+    second: ReGUI_174
+  - first:
+      213: -7691278155821161369
+    second: ReGUI_175
+  - first:
+      213: 4635052698126449988
+    second: ReGUI_176
+  - first:
+      213: -4296557918819156328
+    second: ReGUI_177
+  - first:
+      213: 2330466749857427447
+    second: ReGUI_178
+  - first:
+      213: 3285776846121059879
+    second: ReGUI_179
+  - first:
+      213: 5514988487176195866
+    second: ReGUI_180
+  - first:
+      213: 8267808323517966980
+    second: ReGUI_181
+  - first:
+      213: 654617417280029068
+    second: ReGUI_182
+  - first:
+      213: -8962542288211820943
+    second: ReGUI_183
+  - first:
+      213: 86295229571394923
+    second: ReGUI_184
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ReGUI_0
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 748
+        width: 103
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be454e40566967430800000000000000
+      internalID: 3780374297842046187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 748
+        width: 102
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a7dd8f694708850800000000000000
+      internalID: 6377225264125803128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_2
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 748
+        width: 102
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13db54b519c785050800000000000000
+      internalID: 5789514284728171825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_3
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 748
+        width: 102
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4158dd9c969d40e0800000000000000
+      internalID: -2284003836599709366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_4
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 771
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d610ab41500414610800000000000000
+      internalID: 1603633332887355757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_5
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 771
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad9005de150263e0800000000000000
+      internalID: -2062080049401520727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_6
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 771
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce45ab99d7b971f0800000000000000
+      internalID: -1046603293139841337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_7
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 771
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698a041e106111e40800000000000000
+      internalID: 5625301606892349590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_8
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 771
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6140fc6e5e14ba1a0800000000000000
+      internalID: -6797266756909988842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_9
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 771
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af715284e7094e10800000000000000
+      internalID: 2182284172458033058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_10
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 771
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2aee5771b5bc7d0800000000000000
+      internalID: -2897121778961833232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_11
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 771
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6e475c904144440800000000000000
+      internalID: 4919078725195458287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_12
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 691
+        width: 103
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fdfe3b0c8d73c70800000000000000
+      internalID: 8950861106586312585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_13
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 691
+        width: 102
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af17b42d6e3e6560800000000000000
+      internalID: 7308847883757232037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_14
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 697
+        width: 97
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0006c5e97540bb1c0800000000000000
+      internalID: -4486987829379047424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_15
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 691
+        width: 102
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03140a7eec8202e0800000000000000
+      internalID: -2161009915307224307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_16
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 718
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35bf64ac69bf1890800000000000000
+      internalID: -7485060179400084164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_17
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 718
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fcae1e4d555f6a0800000000000000
+      internalID: -6416127721307713687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_18
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 718
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cd7610772f35190800000000000000
+      internalID: -7974763922204402660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_19
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 718
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd353311c17ae830800000000000000
+      internalID: 4101215484739141107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_20
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 718
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a712a3218858f270800000000000000
+      internalID: 8284468826219878312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_21
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 718
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd31a5edb396c420800000000000000
+      internalID: 2649967874564767189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_22
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 718
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ae5e3a302333d50800000000000000
+      internalID: 6715766460555586197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_23
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 718
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091a35e2614aa3c60800000000000000
+      internalID: 7798726119918903696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_24
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 635
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e9a660f6f9261b0800000000000000
+      internalID: -5664790082080825820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_25
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 635
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bcd9d531d4281570800000000000000
+      internalID: 8437534382848859314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_26
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 635
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5464c0eda464f6a0800000000000000
+      internalID: -6416392871133027235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_27
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 635
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1289fc0dfded576b0800000000000000
+      internalID: -5299084333669181407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_28
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 635
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869d569687c9f6e10800000000000000
+      internalID: 2193143584531011944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_29
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 666
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8896661cb2f1d250800000000000000
+      internalID: 5967817870886213773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_30
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 666
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64760061067a5420800000000000000
+      internalID: 2619535881547445357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_31
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 666
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70973617c77665c30800000000000000
+      internalID: 4347776274448742663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_32
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 666
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43f209cf44340150800000000000000
+      internalID: 5837848534258479946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_33
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 666
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237f69314978e1110800000000000000
+      internalID: 1233572417999664946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_34
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 666
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3bfdb3328337a60800000000000000
+      internalID: 7670536314321613765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_35
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 666
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1520cf511ff7ba0800000000000000
+      internalID: -6088883094457003604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_36
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 666
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f9db23c88277cf0800000000000000
+      internalID: -254690271311323373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_37
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 614
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61f20a71f383e110800000000000000
+      internalID: 1289018991515464045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_38
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 614
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee5eb124805d2920800000000000000
+      internalID: 2967116257939054307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_39
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 614
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651598779cb880540800000000000000
+      internalID: 4974379485840888150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_40
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 614
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3f00e29ef8358b0800000000000000
+      internalID: -5164626116001860704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_41
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 614
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cbc4260b9b8ddc0800000000000000
+      internalID: -3613934533750244267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_42
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 614
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc311067c4a966cd0800000000000000
+      internalID: -2565193284552944689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_43
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 614
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebe4819a7462fc70800000000000000
+      internalID: 9003369082657237996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_44
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 614
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5490bd4a28a11c10800000000000000
+      internalID: 2022582607311574110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_45
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 561
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5abe43d486d7400800000000000000
+      internalID: 323529429050172867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_46
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 561
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2231bd30c86cc0370800000000000000
+      internalID: 8290219318744650530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_47
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 561
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83746399e917037f0800000000000000
+      internalID: -634882621469997256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_48
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 561
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f2a856bb952f0e0800000000000000
+      internalID: -2237627403452403959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_49
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 561
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e3a58f17f0a0890800000000000000
+      internalID: -7491158048005013896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_50
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 561
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90bc5bfc1979eac0800000000000000
+      internalID: -3825393243091324772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_51
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 561
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66f8f1374d760710800000000000000
+      internalID: 1659151257467156075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_52
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 561
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25a8b51716175690800000000000000
+      internalID: -7613592356642052822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_53
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 561
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f36a3c669c9a7890800000000000000
+      internalID: -7459477662911011847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_54
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 561
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359515abb5f03b8e0800000000000000
+      internalID: -1678981349436729005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_55
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 561
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3fee31f89e175f0800000000000000
+      internalID: -760570061324880989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_56
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 561
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa341e7b49d12ee80800000000000000
+      internalID: -8150919851009817681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_57
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 561
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c8b46af9d4ffd00800000000000000
+      internalID: 1008610189639388179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_58
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 561
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37cc27b0195b01810800000000000000
+      internalID: 1734085491104599155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_59
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 561
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e434ea948e00610800000000000000
+      internalID: 1585522471988317767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_60
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 561
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be81fb082fa71980800000000000000
+      internalID: -8568187179515146573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_61
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 509
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb7c17e7fa03a8e0800000000000000
+      internalID: -1683489775855830073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_62
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 509
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c163fe6ce204c2e00800000000000000
+      internalID: 1021261785156498972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_63
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 509
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7d798de03990af0800000000000000
+      internalID: -429650597464516618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_64
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 509
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c4b1803a86cdba0800000000000000
+      internalID: -6062855948922565489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_65
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 509
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb31fcac275300de0800000000000000
+      internalID: -1369035519575518273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_66
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 509
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ee69e11901c6690800000000000000
+      internalID: -7607687455066100140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_67
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 509
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f577e1bc0e5d0d50800000000000000
+      internalID: 6705118828841891314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_68
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 509
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8767548d084a05f0800000000000000
+      internalID: -789739561758005363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_69
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 509
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b224bdee715735a80800000000000000
+      internalID: -8479304927756467669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_70
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 509
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a28643adb239a10800000000000000
+      internalID: 1914922482744699406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_71
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 509
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbc5a3403287bbb0800000000000000
+      internalID: -4920320924073997327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_72
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 509
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e015361db80c8adb0800000000000000
+      internalID: -4780359297707847410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_73
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 509
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cf6ddae53f95c30800000000000000
+      internalID: 4348774503171947660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_74
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 509
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9467a3debfa333d30800000000000000
+      internalID: 4409933313817081417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_75
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 509
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b330c1ab75d500390800000000000000
+      internalID: -7854175118768209093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_76
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 509
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4ca29bd7fbdc050800000000000000
+      internalID: 5822520439958324420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_77
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 457
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f7f0e3c5b5a4010800000000000000
+      internalID: 1173851104619757377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_78
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 457
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc5b29b7e1463790800000000000000
+      internalID: -7550775261740180277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_79
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 457
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801cc45a6f3476ac0800000000000000
+      internalID: -3862043428832624376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_80
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 457
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ddc3b6e12ad9d620800000000000000
+      internalID: 2799508482526793176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_81
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 457
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3b81c8156397a60800000000000000
+      internalID: 7672223164073030587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_82
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 457
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304abde2773f17d30800000000000000
+      internalID: 4427587601894712323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_83
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 457
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7106d96bf465b4740800000000000000
+      internalID: 5137294700312354839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_84
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 457
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148e11601dd98e200800000000000000
+      internalID: 209590903748290625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_85
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 457
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755a571e324ae0960800000000000000
+      internalID: 7570168497669776727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_86
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 457
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d6aa02680b2f0d0800000000000000
+      internalID: -3390453479336415867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_87
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 457
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ed0ab9598719ee0800000000000000
+      internalID: -1256090237103186331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_88
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 457
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b2246e06d40c690800000000000000
+      internalID: -7583976693916620029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_89
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 457
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04dc4fdfd7d77d0b0800000000000000
+      internalID: -5703952422956380864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_90
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 457
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd0d9195bb0c8220800000000000000
+      internalID: 2489377568489016789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_91
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 457
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1f201ca62159470800000000000000
+      internalID: 8400640929643557308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_92
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 457
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d22181c88a78ff0800000000000000
+      internalID: -33873152529257107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_93
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 405
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ec122f1cff18010800000000000000
+      internalID: 1189512985058594340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_94
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 405
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d822e48ddae8fc60800000000000000
+      internalID: 7852284187458545874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_95
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 405
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec58726128bc0650800000000000000
+      internalID: 6200533240507817188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_96
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 405
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a7297b63f0aedb0800000000000000
+      internalID: -4761976928308397533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_97
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 405
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fdc7d5ddf3d0d5e0800000000000000
+      internalID: -1886775156700361227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_98
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 405
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462f7941d405f8a80800000000000000
+      internalID: -8462456882817666460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_99
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 405
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5d4f6d415222c00800000000000000
+      internalID: 874302049099240955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_100
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 405
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9dd36cbe000df60800000000000000
+      internalID: 8056940746009074155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_101
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 405
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8958e0c777637bdb0800000000000000
+      internalID: -4776288992992787048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_102
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 405
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c783e9ef879867990800000000000000
+      internalID: -7388566985893857156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_103
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 405
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90112e03df1c11d90800000000000000
+      internalID: -7128703441959775991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_104
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 405
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686851938f31f7a90800000000000000
+      internalID: -7314105312995867002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_105
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 405
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9791c7cd88e623d50800000000000000
+      internalID: 6715551528456558969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_106
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 405
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e7ace06f5cf3650800000000000000
+      internalID: 6214903671395352114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_107
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 405
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2b77c8dad1eb790800000000000000
+      internalID: -7512534497184206166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_108
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 405
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5a9449f49ba94c0800000000000000
+      internalID: -4279904744420825637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_109
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 352
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29407923bdb1e0d0800000000000000
+      internalID: -3395224066868623061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_110
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 352
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229098a42bdc42eb0800000000000000
+      internalID: -4745441941703292638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_111
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 352
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409d939b10809ee60800000000000000
+      internalID: 7991927817241221380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_112
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 352
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c451b5a02bedd9a0800000000000000
+      internalID: -6206546185995332407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_113
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 352
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab8fd02676942410800000000000000
+      internalID: 1451450414021970849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_114
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 352
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c953219f78a09810800000000000000
+      internalID: 1770099919405930952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_115
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 352
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f078ee73859e03680800000000000000
+      internalID: -8777259108640323825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_116
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 352
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43888c8ccab27b00800000000000000
+      internalID: 824927069456073547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_117
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 352
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3fe526c9a35beb0800000000000000
+      internalID: -4704789792378915898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_118
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 352
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4278f674da9015d0800000000000000
+      internalID: -3093802706683792820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_119
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 352
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5ea41a1da84f0b0800000000000000
+      internalID: -5695774995757996636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_120
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 352
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750e1345fe1492d60800000000000000
+      internalID: 7865890720344825943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_121
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 352
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09700846e5df03620800000000000000
+      internalID: 2751977954178238352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_122
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 352
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6744ef912cb08d0800000000000000
+      internalID: -2878994119877429580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_123
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 352
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6baf516cf526acf40800000000000000
+      internalID: 5749516037776603830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_124
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 352
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0e0198b45e02920800000000000000
+      internalID: 2963620667394679015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_125
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 300
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e4b4aa99e25c940800000000000000
+      internalID: 5315706172702674479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_126
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 300
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275fb68116ea39cb0800000000000000
+      internalID: -4858347840957844110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_127
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 300
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f43fe78d885ebf0800000000000000
+      internalID: -295679737098711266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_128
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 300
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8697ae29575de30800000000000000
+      internalID: 4527654274250401992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_129
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 300
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b338d4b14573d74e0800000000000000
+      internalID: -1982367426598304965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_130
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 300
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1287c6ceb8e7e10800000000000000
+      internalID: 2197347515751735806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_131
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 300
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c42d2788c376020800000000000000
+      internalID: 2334901488554495047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_132
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 300
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c880100439d32f0800000000000000
+      internalID: -991474439847113576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_133
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 300
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ade396e46644d350800000000000000
+      internalID: 6040530399389805985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_134
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 300
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e5616b588e1be50800000000000000
+      internalID: 6823490571426225671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_135
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 300
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041f1de8cafbc99d0800000000000000
+      internalID: -2766125323260923584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_136
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 300
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f6c3088d7cad370800000000000000
+      internalID: 8348204591962943352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_137
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 300
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9794b33e7405800f0800000000000000
+      internalID: -1150581435107948167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_138
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 300
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6e2fe1b16ce3960800000000000000
+      internalID: 7583716642324145841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_139
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 300
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a313cd7a2f8edb5c0800000000000000
+      internalID: -4197943148743478982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_140
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 300
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1791d02a362a08240800000000000000
+      internalID: 4792008552326437233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_141
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 248
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4932fdc8580920690800000000000000
+      internalID: -7637383114798455916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_142
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 248
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5f4cbff5170e3a0800000000000000
+      internalID: -6638181193684290101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_143
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 248
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613aa82e73f282fb0800000000000000
+      internalID: -4672432696326446314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_144
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 248
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be909780cb4f6a730800000000000000
+      internalID: 4010161606653184491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_145
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 248
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be959bb1362589a0800000000000000
+      internalID: -6231532514354815312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_146
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 248
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4436c266bfb12ea00800000000000000
+      internalID: 784220051680813892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_147
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 248
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfbeeed08f27d510800000000000000
+      internalID: 1573778825331785652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_148
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 248
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7784b23f8ad5a3210800000000000000
+      internalID: 1313465221547509879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_149
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 248
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5963d944a72bf390800000000000000
+      internalID: -7783583944413058723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_150
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 248
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bde8c89f2efe8160800000000000000
+      internalID: 7029835548752145841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_151
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 248
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e13335ca979d8b0800000000000000
+      internalID: -5126932919747404139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_152
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 248
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7957a5574baed0d10800000000000000
+      internalID: 2093587462581024151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_153
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 248
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def1d925c226630c0800000000000000
+      internalID: -4596378427180900371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_154
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 248
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a98675088514c00800000000000000
+      internalID: 883084310186859135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_155
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 248
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04ea8538af9f51f0800000000000000
+      internalID: -1053948242979789810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_156
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 248
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6366c128ef7a09610800000000000000
+      internalID: 1625984177027180086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_157
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 195
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fc5a93dcde4f0f0800000000000000
+      internalID: -1083980144598200466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_158
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 195
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5f2ca5f2bc4b4d0800000000000000
+      internalID: -3119645237614283309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_159
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 195
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca95e64c3037d3ec0800000000000000
+      internalID: -3585583268299384404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_160
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 195
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2817d7f4af6b5c60800000000000000
+      internalID: 7807957133300275245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_161
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 195
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28142950a19cd12d0800000000000000
+      internalID: -3306265437820272254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_162
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 195
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263358c06348954d0800000000000000
+      internalID: -3145337497068424350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_163
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 195
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464dacbd727cc7360800000000000000
+      internalID: 7168823680872141924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_164
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 195
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c91907514ab0fac0800000000000000
+      internalID: -3823351293841696317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_165
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 196
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f751422447e7390800000000000000
+      internalID: -7818684075646550183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_166
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 197
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbe5f548fc1fd950800000000000000
+      internalID: 6475926641833274367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_167
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 197
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00100a17e31a517a0800000000000000
+      internalID: -6407037605298306816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_168
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 197
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e5da4f996717210800000000000000
+      internalID: 1328973768658083482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_169
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 197
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0def6fd84b73f9db0800000000000000
+      internalID: -4783043030628761904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_170
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 196
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6888a1051fd7ab30800000000000000
+      internalID: 4298649650663557227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_171
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 197
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e17ef40fdab07690800000000000000
+      internalID: -7606374303604510237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_172
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 197
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8545f802bbc1b30800000000000000
+      internalID: 4259485096103663847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_173
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 144
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7335f6f406c54cc0800000000000000
+      internalID: -3727355391953783941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_174
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 144
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dadbb9561a084e10800000000000000
+      internalID: 2182005110572047065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_175
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 144
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764ee857447134590800000000000000
+      internalID: -7691278155821161369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_176
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 144
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44dfa031fd3035040800000000000000
+      internalID: 4635052698126449988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_177
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 144
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e74e3465f8f54c0800000000000000
+      internalID: -4296557918819156328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_178
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 144
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff6c12692b775020800000000000000
+      internalID: 2330466749857427447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_179
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 144
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726cf3cf1ac699d20800000000000000
+      internalID: 3285776846121059879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_180
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 144
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f81863fcc298c40800000000000000
+      internalID: 5514988487176195866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_181
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 144
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a6e429dd72db270800000000000000
+      internalID: 8267808323517966980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_182
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 144
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8182cc921ba51900800000000000000
+      internalID: 654617417280029068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_183
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 144
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17eb7b24647ae9380800000000000000
+      internalID: -8962542288211820943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReGUI_184
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 144
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6de968dd05923100800000000000000
+      internalID: 86295229571394923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
