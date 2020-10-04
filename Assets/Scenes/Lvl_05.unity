@@ -1238,10 +1238,10 @@ MonoBehaviour:
   poisonEnemy: {fileID: 3324696211656867666, guid: 1fa69eeae7c4f2b4fbdde7842d747d77,
     type: 3}
   poisonEnemyTime: 3
-  poisonEnemyMaxCount: 3
+  poisonEnemyMaxCount: 2
   clock: {fileID: 0}
-  clockTime: 1
-  clockMaxCount: 2
+  clockTime: 0
+  clockMaxCount: 0
 --- !u!1 &646115453
 GameObject:
   m_ObjectHideFlags: 0

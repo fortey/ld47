@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 6910987897361027667}
   - component: {fileID: 1156186325128759523}
   m_Layer: 0
-  m_Name: ExplosiveEnemy
+  m_Name: Explosivesoft
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -121,6 +121,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 072b3e6661e11984aaa8b8df35064e2e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  damage: 50
+  damage: 40
   lifeTime: 2
   radius: 2

@@ -334,15 +334,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   passiveEnemy: {fileID: 6312061959606716792, guid: 49fa19d77fffa4e42927fb415ae4c7db,
     type: 3}
-  passiveEnemyTime: 1
-  passiveEnemyMaxCount: 0
+  passiveEnemyTime: 4
+  passiveEnemyMaxCount: 2
   explosiveEnemy: {fileID: 6910987897361027669, guid: f71993d26ce43fa45841e475f9e3c3f8,
     type: 3}
-  explosiveEnemyTime: 1
-  explosiveEnemyMaxCount: 0
+  explosiveEnemyTime: 8
+  explosiveEnemyMaxCount: 1
   poisonEnemy: {fileID: 3324696211656867666, guid: 1fa69eeae7c4f2b4fbdde7842d747d77,
     type: 3}
-  poisonEnemyTime: 3
+  poisonEnemyTime: 1.5
   poisonEnemyMaxCount: 3
   clock: {fileID: 0}
   clockTime: 1

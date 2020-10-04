@@ -965,19 +965,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   passiveEnemy: {fileID: 6312061959606716792, guid: 49fa19d77fffa4e42927fb415ae4c7db,
     type: 3}
-  passiveEnemyTime: 1
+  passiveEnemyTime: 0
   passiveEnemyMaxCount: 0
   explosiveEnemy: {fileID: 6910987897361027669, guid: f71993d26ce43fa45841e475f9e3c3f8,
     type: 3}
-  explosiveEnemyTime: 1
-  explosiveEnemyMaxCount: 0
+  explosiveEnemyTime: 3
+  explosiveEnemyMaxCount: 2
   poisonEnemy: {fileID: 3324696211656867666, guid: 1fa69eeae7c4f2b4fbdde7842d747d77,
     type: 3}
-  poisonEnemyTime: 3
-  poisonEnemyMaxCount: 3
+  poisonEnemyTime: 0
+  poisonEnemyMaxCount: 0
   clock: {fileID: 0}
-  clockTime: 1
-  clockMaxCount: 2
+  clockTime: 0
+  clockMaxCount: 0
 --- !u!1 &124412154
 GameObject:
   m_ObjectHideFlags: 0
@@ -1865,7 +1865,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3eb56ee8bc154b240ba509f38340a218, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Bullet: {fileID: 5054585871055434021, guid: a0790bd1fbdde704da7649ad1b91dcd2, type: 3}
+  Bullet: {fileID: 5054585871055434021, guid: 4d626ba5820c4514db6bbfc741842508, type: 3}
   startTimeBtwShoots: 0.1
 --- !u!61 &708268047
 BoxCollider2D:
