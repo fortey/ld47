@@ -6,11 +6,13 @@ using UnityEngine.SceneManagement;
 public class TNT : MonoBehaviour
 {
     public Sprite Explosion;
+    public float newSpeed = 3f;
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.CompareTag("Player"))
         {
             transform.SetParent(collision.transform);
+            collision.gameObject.GetComponent<CharController>().moveSpeed = newSpeed;
         }
 
         if (collision.gameObject.CompareTag("Boss"))
