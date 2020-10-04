@@ -48,6 +48,10 @@ public class GlobalVariables : MonoBehaviour
     public void SetNext()
     {
         currentIndex++;
+        if (currentIndex > Scenes.Count)
+        {
+            currentIndex = 0;
+        }
         NextScene = Scenes[currentIndex];
     }
 
