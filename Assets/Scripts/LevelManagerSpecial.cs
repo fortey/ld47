@@ -41,8 +41,12 @@ public class LevelManagerSpecial : MonoBehaviour
         else
         {
             if (GlobalVariables.instance)
+            {
                 //GlobalVariables.instance.Score--;
+                var tnt = GameObject.FindObjectOfType<TNT>();
+                GlobalVariables.instance.tntPos = tnt.transform.position;
                 SceneManager.LoadScene(GlobalVariables.instance.PreviousScene());
+            }
         }
     }
 }
