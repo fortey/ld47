@@ -14,10 +14,7 @@ public class Character : MonoBehaviour
 
     private int health = 5;
 
-    private float poisonTime;
-    private float poisonTick;
-    private float currentPoisonTime;
-    private int poisonDamage;
+    private int poisonCount;
 
     private SpriteRenderer spriteRenderer;
     public int Health
@@ -37,7 +34,7 @@ public class Character : MonoBehaviour
 
     void Update()
     {
-        UpdatePoisoning();
+
     }
 
     private void ShowHealth()
@@ -48,7 +45,6 @@ public class Character : MonoBehaviour
     public void Heal(int amount)
     {
         Health += amount;
-
 
     }
 
@@ -63,26 +59,27 @@ public class Character : MonoBehaviour
 
     public void Poisoning(PoisonEnemy enemy)
     {
-        poisonTime = enemy.poisonTime;
-        poisonTick = enemy.poisonTick;
-        poisonDamage = enemy.damage;
+        poisonCount++;
         spriteRenderer.color = Color.green;
+        StartCoroutine(PoisonAction(enemy));
     }
 
-    private void UpdatePoisoning()
+    private IEnumerator PoisonAction(PoisonEnemy enemy)
     {
-        if (poisonTime >= poisonTick)
+        var poisonTime = enemy.poisonTime;
+        var poisonTick = enemy.poisonTick;
+        var poisonDamage = enemy.damage;
+        while (poisonTime >= poisonTick)
         {
-            currentPoisonTime += Time.deltaTime;
-            if (currentPoisonTime >= poisonTick)
+            yield return new WaitForSeconds(poisonTick);
+
+            poisonTime -= poisonTick;
+            TakeDamage(poisonDamage);
+            if (poisonTime < poisonTick)
             {
-                poisonTime -= currentPoisonTime;
-                TakeDamage(poisonDamage);
-                currentPoisonTime = 0f;
-                if (poisonTime < poisonTick)
-                {
+                poisonCount--;
+                if (poisonCount == 0)
                     spriteRenderer.color = Color.white;
-                }
             }
         }
     }
