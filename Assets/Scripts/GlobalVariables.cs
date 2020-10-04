@@ -22,7 +22,8 @@ public class GlobalVariables : MonoBehaviour
                 NextScene = "Special";
                 score = 0;
             }
-            OnScoreChanged.Invoke(score);
+            if (OnScoreChanged != null)
+                OnScoreChanged.Invoke(score);
         }
     }
     public Action<int> OnScoreChanged;
