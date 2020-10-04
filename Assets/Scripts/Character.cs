@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class Character : MonoBehaviour
 {
+    public System.Action onDead;
+
     public HealthBar healthBar;
     public Animator anim;
     public int startHealth = 5;
@@ -44,10 +46,10 @@ public class Character : MonoBehaviour
     }
 
     public void Heal(int amount)
-    { 
+    {
         Health += amount;
-        
-        
+
+
     }
 
     public void TakeDamage(int damage)
@@ -55,7 +57,7 @@ public class Character : MonoBehaviour
         Health -= damage;
         if (Health == 0)
         {
-
+            onDead.Invoke();
         }
     }
 
