@@ -1518,8 +1518,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3eb56ee8bc154b240ba509f38340a218, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Bullet: {fileID: 5054585871055434021, guid: c606a1ad89c55114c81653696e2d44c9, type: 3}
-  startTimeBtwShoots: 3
+  Bullet: {fileID: 5054585871055434021, guid: a0790bd1fbdde704da7649ad1b91dcd2, type: 3}
+  startTimeBtwShoots: 0.08
 --- !u!1 &809034903
 GameObject:
   m_ObjectHideFlags: 0
