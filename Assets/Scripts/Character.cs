@@ -44,8 +44,14 @@ public class Character : MonoBehaviour
 
     public void Heal(int amount)
     {
-        Health += amount;
+        if (GetComponent<CharController>().IsJumping)
+            return;
 
+        Health += amount;
+        if (Health == maxHealth)
+        {
+            onDead.Invoke();
+        }
     }
 
     public void TakeDamage(int damage)

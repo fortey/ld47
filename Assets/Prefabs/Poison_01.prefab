@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 3324696211656867668}
   - component: {fileID: 3794100118961441774}
   m_Layer: 0
-  m_Name: PoisonEnemy
+  m_Name: Poison_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -121,6 +121,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2da4ce30d67ea6246835e04b45380c6b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  damage: 3
+  damage: 5
   poisonTime: 5
   poisonTick: 1

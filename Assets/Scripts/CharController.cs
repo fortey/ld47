@@ -19,6 +19,8 @@ public class CharController : MonoBehaviour
     private bool isJumping;
     private float currentJumpTime;
 
+    public bool IsJumping { get => isJumping; }
+
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
