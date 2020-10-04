@@ -47,7 +47,11 @@ public class EnemySpawn : MonoBehaviour
             {
                 var x = UnityEngine.Random.Range(-screenRes.x, screenRes.x);
                 var y = UnityEngine.Random.Range(-screenRes.y, screenRes.y);
-
+                while (Physics2D.OverlapBox(new Vector2(x, y), new Vector2(1, 1), 0f) != null)
+                {
+                    x = UnityEngine.Random.Range(-screenRes.x, screenRes.x);
+                    y = UnityEngine.Random.Range(-screenRes.y, screenRes.y);
+                }
                 SpawnAction(new Vector3(x, y, 0));
 
             }
