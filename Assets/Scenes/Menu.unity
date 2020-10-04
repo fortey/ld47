@@ -1062,6 +1062,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 00135a965c932a94ba10d16516b62f17, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Scenes:
+  - Lvl_01
+  - Lvl_02
+  - Lvl_03
+  - Lvl_04
+  - Lvl_05
+  - Lvl_06
+  - Lvl_07
+  - Lvl_08
+  - Lvl_09
+  - Lvl_10
+  - Lvl_11
+  - Lvl_12
+  NextScene: Lvl_1
 --- !u!4 &1152660609
 Transform:
   m_ObjectHideFlags: 0
