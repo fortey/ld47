@@ -28,6 +28,7 @@ public class Character : MonoBehaviour
     }
     void Start()
     {
+        healthBar = GameObject.FindObjectOfType<HealthBar>();
         Health = startHealth;
         spriteRenderer = GetComponent<SpriteRenderer>();
     }
