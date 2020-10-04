@@ -20,7 +20,7 @@ public class Timer : MonoBehaviour
     void Update()
     {
         StartTime -= Time.deltaTime;
-        
+
         if (StartTime < 0 && newtime != 0)
         {
             StartTime = newtime - 5;
@@ -29,5 +29,10 @@ public class Timer : MonoBehaviour
         }
         else if (newtime != 0)
             time.text = StartTime.ToString("#");
+    }
+
+    public void AddTime(float additionalTime)
+    {
+        StartTime += additionalTime;
     }
 }
