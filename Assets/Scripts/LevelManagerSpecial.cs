@@ -9,6 +9,7 @@ public class LevelManagerSpecial : MonoBehaviour
     public TextMeshProUGUI LevelLabel;
     public string LevelName;
     public string NextScene;
+    public GameObject Won;
 
     void Start()
     {
@@ -34,7 +35,8 @@ public class LevelManagerSpecial : MonoBehaviour
             {
                 //GlobalVariables.instance.SetNext();
                 //GlobalVariables.instance.Score++;
-                SceneManager.LoadScene(GlobalVariables.instance.NextScene);
+                Won.SetActive(true);
+                StartCoroutine(SwitchLevelGood());
             }
 
         }
@@ -48,5 +50,11 @@ public class LevelManagerSpecial : MonoBehaviour
                 SceneManager.LoadScene(GlobalVariables.instance.PreviousScene());
             }
         }
+    }
+
+    private IEnumerator SwitchLevelGood()
+    {
+        yield return new WaitForSeconds(2);
+        SceneManager.LoadScene(GlobalVariables.instance.NextScene);
     }
 }
