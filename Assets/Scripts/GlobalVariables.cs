@@ -13,7 +13,8 @@ public class GlobalVariables : MonoBehaviour
         set
         {
             score = value;
-            OnScoreChanged.Invoke(score);
+            if (OnScoreChanged != null)
+                OnScoreChanged.Invoke(score);
         }
     }
     public Action<int> OnScoreChanged;
