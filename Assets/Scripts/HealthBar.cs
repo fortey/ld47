@@ -12,6 +12,10 @@ public class HealthBar : MonoBehaviour
     public Image HealthLine;
     public float offsetY = 30;
 
+    private void Start()
+    {
+        objectToFollow = GameObject.FindGameObjectWithTag("Player").transform;
+    }
     void Update()
     {
         RepositionHealthBar();
