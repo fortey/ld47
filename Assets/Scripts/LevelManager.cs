@@ -16,8 +16,8 @@ public class LevelManager : MonoBehaviour
         LevelLabel.gameObject.SetActive(true);
         StartCoroutine(HideLevelLabel());
 
-        var character = GameObject.FindGameObjectWithTag("Player");
-        character.GetComponent<Character>().onDead += () => SceneManager.LoadScene(NextScene);
+        var character = GameObject.FindGameObjectWithTag("Player").GetComponent<Character>();
+        character.onDead += () => EndLevel(character);
     }
 
     private IEnumerator HideLevelLabel()
@@ -26,5 +26,12 @@ public class LevelManager : MonoBehaviour
         LevelLabel.gameObject.SetActive(false);
     }
 
-
+    public void EndLevel(Character character)
+    {
+        if (character.Health == 0)
+            GlobalVariables.instance.Score++;
+        else
+            GlobalVariables.instance.Score--;
+        SceneManager.LoadScene(NextScene);
+    }
 }
