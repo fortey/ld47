@@ -28,6 +28,7 @@ public class Character : MonoBehaviour
     }
     void Start()
     {
+        anim = GetComponent<Animator>();
         healthBar = GameObject.FindObjectOfType<HealthBar>();
         Health = startHealth;
         spriteRenderer = GetComponent<SpriteRenderer>();
@@ -49,6 +50,7 @@ public class Character : MonoBehaviour
             return;
 
         Health += amount;
+        anim.SetTrigger("Heal");
         if (Health == maxHealth)
         {
             onDead.Invoke();
