@@ -4,7 +4,7 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class LevelManager : MonoBehaviour
+public class LevelManagerSpecial : MonoBehaviour
 {
     public TextMeshProUGUI LevelLabel;
     public string LevelName;
@@ -32,8 +32,8 @@ public class LevelManager : MonoBehaviour
         {
             if (GlobalVariables.instance)
             {
-                GlobalVariables.instance.SetNext();
-                GlobalVariables.instance.Score++;
+                //GlobalVariables.instance.SetNext();
+                //GlobalVariables.instance.Score++;
                 SceneManager.LoadScene(GlobalVariables.instance.NextScene);
             }
 
@@ -41,8 +41,8 @@ public class LevelManager : MonoBehaviour
         else
         {
             if (GlobalVariables.instance)
-                GlobalVariables.instance.Score--;
-            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+                //GlobalVariables.instance.Score--;
+                SceneManager.LoadScene(GlobalVariables.instance.PreviousScene());
         }
     }
 }
