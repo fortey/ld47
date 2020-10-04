@@ -121,6 +121,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2da4ce30d67ea6246835e04b45380c6b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  damage: 5
-  poisonTime: 4
-  poisonTick: 0.5
+  damage: 3
+  poisonTime: 5
+  poisonTick: 1
