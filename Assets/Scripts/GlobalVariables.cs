@@ -48,7 +48,7 @@ public class GlobalVariables : MonoBehaviour
     public void SetNext()
     {
         currentIndex++;
-        if (currentIndex > Scenes.Count)
+        if (currentIndex > Scenes.Count - 1)
         {
             currentIndex = 0;
         }
@@ -57,7 +57,7 @@ public class GlobalVariables : MonoBehaviour
 
     public string PreviousScene()
     {
-        return Scenes[currentIndex - 1];
+        return Scenes[currentIndex == 0 ? 0 : currentIndex - 1];
     }
 
     public string CurrentScene()
