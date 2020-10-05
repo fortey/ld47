@@ -1861,7 +1861,7 @@ MonoBehaviour:
     type: 3}
   passiveEnemyTime: 2
   passiveEnemyMaxCount: 2
-  explosiveEnemy: {fileID: 6910987897361027669, guid: bb1735566ed2352428d03c8f334ae7f7,
+  explosiveEnemy: {fileID: 6910987897361027669, guid: f71993d26ce43fa45841e475f9e3c3f8,
     type: 3}
   explosiveEnemyTime: 5
   explosiveEnemyMaxCount: 2
