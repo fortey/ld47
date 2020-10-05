@@ -7,6 +7,7 @@ public class TNT : MonoBehaviour
 {
     public Sprite Explosion;
     public float newSpeed = 2f;
+    public AudioSource SoundGameOver;
     
     private void Start()
     {
@@ -27,8 +28,8 @@ public class TNT : MonoBehaviour
         {
             transform.SetParent(null);
             GetComponent<SpriteRenderer>().sprite = Explosion;
+            SoundGameOver.Play();
             Destroy(collision.gameObject);
-            StartCoroutine(NextLevel());
         }
     }
 
