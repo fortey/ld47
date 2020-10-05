@@ -360,8 +360,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 6
-  jumpForce: 30
-  jumpTime: 0.1
+  jumpForce: 0
+  jumpTime: 0
   anim: {fileID: 0}
 --- !u!212 &155654816
 SpriteRenderer:
