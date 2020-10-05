@@ -10,7 +10,7 @@ public class LevelManagerSpecial : MonoBehaviour
     public string LevelName;
     public string NextScene;
     public GameObject Won;
-    
+        
     void Start()
     {
         LevelLabel.text = LevelName;

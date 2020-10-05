@@ -7,7 +7,7 @@ public class TNT : MonoBehaviour
 {
     public Sprite Explosion;
     public float newSpeed = 2f;
-
+    
     private void Start()
     {
         if (GlobalVariables.instance && !GlobalVariables.instance.tntPos.Equals(new Vector2(0, 0)))
