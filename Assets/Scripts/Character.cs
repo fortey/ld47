@@ -59,6 +59,7 @@ public class Character : MonoBehaviour
 
     public void TakeDamage(int damage)
     {
+        anim.SetTrigger("Damage");
         Health -= damage;
         if (Health == 0)
         {
