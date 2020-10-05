@@ -6,6 +6,7 @@ public class Character : MonoBehaviour
 {
     public System.Action onDead;
 
+    public AudioSource HealSound;
     public HealthBar healthBar;
     public Animator anim;
     public int startHealth = 5;
@@ -55,6 +56,7 @@ public class Character : MonoBehaviour
         {
             onDead.Invoke();
         }
+        HealSound.Play();
     }
 
     public void TakeDamage(int damage)
