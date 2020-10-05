@@ -34,7 +34,7 @@ public class TNT : MonoBehaviour
 
     IEnumerator NextLevel()
     {
-        yield return new WaitForSeconds(1);
+        yield return new WaitForSeconds(2);
         SceneManager.LoadScene(GlobalVariables.instance.CurrentScene());
     }
 }

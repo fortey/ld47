@@ -9,6 +9,8 @@ public class LevelManager : MonoBehaviour
     public TextMeshProUGUI LevelLabel;
     public string LevelName;
     public string NextScene;
+    public AudioSource NextLvlSound;
+    public AudioSource RestartLvlSound;
 
     LevelLabal label;
 
@@ -48,6 +50,7 @@ public class LevelManager : MonoBehaviour
     private IEnumerator SwitchLevelGood()
     {
         label.Good.SetActive(true);
+        NextLvlSound.Play();
         yield return new WaitForSeconds(1);
         GlobalVariables.instance.SetNext();
         GlobalVariables.instance.Score++;
@@ -57,6 +60,7 @@ public class LevelManager : MonoBehaviour
     private IEnumerator SwitchLevelBad()
     {
         label.Bad.SetActive(true);
+        RestartLvlSound.Play();
         yield return new WaitForSeconds(1);
         if (GlobalVariables.instance)
             GlobalVariables.instance.Score--;
