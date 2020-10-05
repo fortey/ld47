@@ -31,7 +31,7 @@ Transform:
   m_GameObject: {fileID: 6058080869471527063}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -2.9845922, y: -2.6062748, z: 10.876953}
-  m_LocalScale: {x: 3.0937898, y: 3.05566, z: 1}
+  m_LocalScale: {x: -3.09379, y: 3.05566, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -101,6 +101,7 @@ MonoBehaviour:
   moveSpeed: 6
   jumpForce: 30
   jumpTime: 0.1
+  anim: {fileID: 0}
 --- !u!50 &6743886772909494604
 Rigidbody2D:
   serializedVersion: 4

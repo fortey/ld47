@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 6910987897361027664}
   - component: {fileID: 6910987897361027667}
   - component: {fileID: 1156186325128759523}
+  - component: {fileID: 7634057779066200519}
   m_Layer: 0
   m_Name: ExplosiveGrand
   m_TagString: Untagged
@@ -124,3 +125,22 @@ MonoBehaviour:
   damage: 60
   lifeTime: 2
   radius: 2
+--- !u!95 &7634057779066200519
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6910987897361027669}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 0}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0

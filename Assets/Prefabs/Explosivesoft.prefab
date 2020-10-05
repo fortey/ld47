@@ -122,7 +122,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 072b3e6661e11984aaa8b8df35064e2e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  damage: 40
+  damage: 50
   lifeTime: 2
   radius: 2
 --- !u!95 &7243756729263980609
@@ -135,7 +135,7 @@ Animator:
   m_GameObject: {fileID: 6910987897361027669}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 918d97fdeebbd6846bebf020c10a0347, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
